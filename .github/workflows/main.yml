@@ -1,0 +1,12 @@
+.github
+arm64
+bin
+docs
+installer
+linker
+scripts
+x64
+xml
+.gitattributes
+.gitignore
+LICENSE
